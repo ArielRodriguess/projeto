@@ -47,8 +47,8 @@ body * {
 #container {
   width: 100%;
   max-width: 588px;
-  margin: 56px auto 0px auto;
-  padding: 0 24px;
+  margin: 0 auto;
+  padding: 56px 0 24px;
 }
 
 #profile {
